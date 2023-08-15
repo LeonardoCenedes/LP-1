@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688593522 source:c:\users\leona\onedrive\documentos\facul\lp 1\simpletron\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
